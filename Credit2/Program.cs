@@ -13,7 +13,7 @@ namespace Credit2
             customer1.CustomerNo = "12345";
             customer1.Name = "Tuba";
             customer1.Surname = "Cinbek";
-            customer1.TcNo = "12345678910";
+            customer1.NationalityId  = "12345678910";
 
             CorporateCustomer customer2 = new CorporateCustomer();
             customer2.Id = 2;
