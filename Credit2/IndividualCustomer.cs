@@ -7,7 +7,7 @@ namespace Credit2
 {
     class IndividualCustomer : Customer
     {
-        public string TcNo { get; set; }
+        public string NationalityId { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
     }
